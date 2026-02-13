@@ -1,6 +1,4 @@
-Hi, I'm Tejal Gole
 
-About me
 
 I am a Business Analyst enthusiast with hands-on experience in SQL-based data analysis and interactive dashboard development using Power BI.
 I enjoy transforming raw data into actionable business insights that support strategic decision-making.
@@ -15,7 +13,8 @@ Business KPI Analysis
 Trend & Performance Analysis
 
 Featured Projects
-🔹 Rossmann Sales Analysis
+
+Rossmann Sales Analysis
 
 SQL and Power BI project analyzing retail sales data to evaluate promotional impact, store performance, and seasonal trends.
 
@@ -26,7 +25,7 @@ Seasonality insights
 Executive-level dashboard
 
 
-🔹 Spend Analysis Dashboard
+Spend Analysis Dashboard
 
 Procurement spend analysis project identifying supplier concentration risks and cost optimization opportunities.
 
